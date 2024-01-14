@@ -7,4 +7,4 @@ In this activity, I learned the importance of assessing access controls within a
 
 <h2>Program walk-through:</h2>
 
-[ Access Control WortkSheet ](https://github.com/EJaniec/Activity-Improve-authentication-authorization-and-accounting-for-a-small-business/blob/main/Activity-Access-control-worksheet.pdf)
+[ Access Control WorkSheet ](https://github.com/EJaniec/Activity-Improve-authentication-authorization-and-accounting-for-a-small-business/blob/main/Activity-Access-control-worksheet.pdf)
