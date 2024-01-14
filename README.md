@@ -7,4 +7,4 @@ In this activity, I learned the importance of assessing access controls within a
 
 <h2>Program walk-through:</h2>
 
-[ File-permissions-in-Linux ](https://github.com/EJaniec/File-permissions-in-Linux-/blob/main/File-permissions-in-Linux.pdf)
+[ Access Control WortkSheet ](https://github.com/EJaniec/Activity-Improve-authentication-authorization-and-accounting-for-a-small-business/blob/main/Activity-Access-control-worksheet.pdf)
